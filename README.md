@@ -22,4 +22,4 @@ This is a simple Bookmarker application that allows you to add and manage your f
 
 ## Live Demo
 
-Check out the live demo [here](https://mohammed-fawzzi.github.io/Bookmarker/).
+Check out the live demo [here](https://mohammed-fawzzi.github.io/Book-Marker/).
