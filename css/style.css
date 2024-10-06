@@ -1,0 +1,45 @@
+.body {
+background-color: rgb(252, 241, 225);
+}
+#home h1 {
+padding: 40px 0px;
+font-family: 'Pacifico', cursive;
+font-weight: 500;
+font-size: 50px;
+color: rgb(53, 46, 40);
+font-style: normal;
+position: relative;
+z-index: 2;
+}
+#home #span1 {
+color: #3ca55c;
+}
+#home #span2 {
+color: #b5ac49;
+}
+#home h2 {
+text-align: center;
+margin: 20px;
+font-family: 'Righteous', sans-serif;
+font-size: 25px;
+}
+#home label {
+font-weight: bold;
+}
+#home .button {
+text-align: center;
+}
+#home a {
+text-decoration: none;
+color: #3ca55c;
+}
+#home a:hover {
+color: #fff;
+}
+#home .table {
+text-align: center;
+}
+input:focus {
+border: #FF9C2A;
+box-shadow: 0 0 10px #FF9C2A !important;
+}
